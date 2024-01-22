@@ -6,7 +6,7 @@
     "feature_set_name": "default",
     "acceptance_metric": "r2_score",
     "acceptance_threshold_min": 0.42,
-    "acceptance_threshold_max": 1.0,
+    "acceptance_threshold_max": 0.5,
     "max_rows_to_read": null,
     "splitting": {
         "random_seed": 1299472653,
